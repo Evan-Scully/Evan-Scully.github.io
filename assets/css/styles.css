@@ -478,29 +478,30 @@ img{
     background-color: var(--first-color);
 }
 
-.skills__python{
+.skills__java{
     width: 95%;
 }
 
-.skills__java{
-    width: 90%;
+.skills__php{
+    width: 83%;
 }
 
-.skills__php{
-    width: 70%;
+.skills__c{
+    width: 82%;
 }
 
 .skills__html{
-    width: 90%;
-}
-
-.skills__css{
-    width: 85%;
+    width: 81%;
 }
 
 .skills__js{
-    width: 80%;
+    width: 75%;
 }
+
+.skills__css{
+    width: 66%;
+}
+
 
 .skills__close .skills__list{
     height: 0;
