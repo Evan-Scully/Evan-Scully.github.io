@@ -1,5 +1,6 @@
-const form = document.querySelector("contact"),
-statusTxt = form.querySelector(".button button--flex form--button");
+//Contact Form in PHP
+const form = document.querySelector("form"),
+statusTxt = form.querySelector(".button-area span");
 form.onsubmit = (e)=>{
   e.preventDefault();
   statusTxt.style.color = "#0D6EFD";
