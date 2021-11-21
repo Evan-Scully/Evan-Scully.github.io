@@ -478,12 +478,24 @@ img{
     background-color: var(--first-color);
 }
 
+.skills__python{
+    width: 95%;
+}
+
+.skills__java{
+    width: 90%;
+}
+
+.skills__php{
+    width: 70%;
+}
+
 .skills__html{
     width: 90%;
 }
 
-.skills__python{
-    width: 80%;
+.skills__css{
+    width: 85%;
 }
 
 .skills__js{
@@ -1112,4 +1124,14 @@ img{
 
 .portfolio__img {
     min-height: 213px;
+}
+
+input {
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
 }
