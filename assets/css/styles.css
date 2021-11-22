@@ -1002,7 +1002,7 @@ img{
     }
 
     .about__buttons{
-        justify-content: center;
+        justify-content: initial;
     }
 
     .qualification__tabs{
