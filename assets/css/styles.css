@@ -661,7 +661,11 @@ img{
 }
 
 .interest__content{
-    text-align: center;
+    text-align: initial;
+}
+
+.interest__description{
+    text-align: initial;
 }
 
 .about__icon{
